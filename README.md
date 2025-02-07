@@ -1,4 +1,4 @@
-# ANyONe Network Community Socks5 Proxy List
+# ANyONe Network Socks5 Proxy List
 
 ## About ANyONe
 
